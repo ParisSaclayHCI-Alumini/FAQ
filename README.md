@@ -1,5 +1,4 @@
-# FAQ
-FAQs about University Paris-Saclay HCI Program
+# FAQs
 
 A: Is FLE considered as a soft skill?
 
