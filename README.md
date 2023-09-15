@@ -6,12 +6,12 @@ A: Yes, check out the [FLE website](https://www.sciences.universite-paris-saclay
 
 Q: Is FLE considered as a soft skill?
 
-A: Yes, FLE is considered as a SOFT SKILL. You don't have to take it for credit during M1. ****ut for it to count as SOFT SKILL ECTs for M2, you have to take it for credit.
+A: Yes, FLE is considered as a SOFT SKILL. You don't have to take it for credit during M1. But for it to count as SOFT SKILL for M2, you have to take it for credit.
 
 
 # M1
 
-Q: If I overload ECTs during M1, can they get carried over to M2?
+Q: If I overload ETCs during M1, can they get carried over to M2?
 
 A: No. M1 and M2 are separately evaluated.
 
@@ -19,7 +19,7 @@ A: No. M1 and M2 are separately evaluated.
 
 Q: Can we take M1 courses from other majors as technical electives?
 
-A: TBA
+A: Yes.
 
 Q: How hard is it to pass sports as UEs?
 
